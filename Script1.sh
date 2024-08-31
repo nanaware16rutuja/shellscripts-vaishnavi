@@ -10,3 +10,4 @@ echo "AWS,Ansible,Docker"
 echo "Freedom"
 echo "Kubernetes"
 echo " Devops Engineer"
+date
